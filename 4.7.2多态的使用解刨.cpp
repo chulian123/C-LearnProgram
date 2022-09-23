@@ -1,4 +1,5 @@
-﻿
+﻿//#include <iostream>
+//using namespace std;
 ////总结:
 ////动态多态满足条件
 ////1.有继承关系(class Cat :public Animal,class Dog :public Animal)
@@ -12,7 +13,7 @@
 //class Animal {
 //public:
 //	//虚函数virtual关键词
-//        virtual	void speak() {
+//	    virtual void speak() {
 //		cout << "动物在说话!" << endl;
 //
 //	}
@@ -51,7 +52,11 @@
 //	Dog dog;
 //	doSpeak(dog);
 //}
+//void test02() {
+//	cout << "sizeof Animal =" << sizeof(Animal) << endl;
+//}
 //
 //int main() {
 //	test01();
+//	test02();
 //}
