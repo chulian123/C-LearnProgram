@@ -1,0 +1,3 @@
+/Users/zhiqing/Documents/C++/C-LearnProgram/cmake-build-debug/CMakeFiles/C_LearnProgram.dir
+/Users/zhiqing/Documents/C++/C-LearnProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhiqing/Documents/C++/C-LearnProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
